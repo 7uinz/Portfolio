@@ -1,4 +1,3 @@
-# Portfolio
 # My Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and professional achievements in the field of Information Technology and Software Development.
