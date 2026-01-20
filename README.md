@@ -11,7 +11,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 ## Technologies Used
 - HTML5, CSS3, JavaScript
 - Git & GitHub
-- Optional: React, Bootstrap, Tailwind CSS (if used)
+- React, Bootstrap, Tailwind CSS
 
 ## Purpose
 The portfolio serves as a professional showcase to:
