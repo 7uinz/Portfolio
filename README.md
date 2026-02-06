@@ -20,4 +20,4 @@ The portfolio serves as a professional showcase to:
 3. Act as a central hub for all my professional achievements.
 
 ## Live Demo
-[www.samer-20.vercel.app]
+[https://samer-20.vercel.app]
