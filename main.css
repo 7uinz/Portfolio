@@ -19,6 +19,32 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+
+
+/* تأثير الألوان الرسمية عند التمرير بالماوس */
+#header nav ul li a.fa-github:hover {
+    color: #24292e !important;
+}
+
+#header nav ul li a.fa-linkedin-in:hover {
+    color: #0a66c2 !important;
+}
+
+#header nav ul li a.fa-snapchat:hover {
+    color: #fffc00 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
